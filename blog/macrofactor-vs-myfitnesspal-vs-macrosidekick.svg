@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Three nutrition tracking approaches</title>
+  <desc id="desc">Three abstract lanes converge toward one divided meal plate without product logos.</desc>
+  <rect width="1200" height="630" fill="#f3f0e8"/>
+  <path d="M0 98H420C560 98 520 315 690 315" fill="none" stroke="#07122c" stroke-width="78"/>
+  <path d="M0 315H690" fill="none" stroke="#46ec96" stroke-width="78"/>
+  <path d="M0 532H420C560 532 520 315 690 315" fill="none" stroke="#ff6d55" stroke-width="78"/>
+  <circle cx="871" cy="315" r="204" fill="#07122c"/>
+  <circle cx="871" cy="315" r="154" fill="#f3f0e8"/>
+  <path d="M871 161A154 154 0 0 1 1004 392L871 315z" fill="#46ec96"/>
+  <path d="M1004 392A154 154 0 0 1 738 392L871 315z" fill="#ff6d55"/>
+  <path d="M738 392A154 154 0 0 1 871 161V315z" fill="#d9ded4"/>
+  <circle cx="871" cy="315" r="37" fill="#07122c"/>
+  <g fill="#07122c"><circle cx="1090" cy="116" r="11"/><circle cx="1127" cy="116" r="11"/><circle cx="1164" cy="116" r="11"/></g>
+</svg>

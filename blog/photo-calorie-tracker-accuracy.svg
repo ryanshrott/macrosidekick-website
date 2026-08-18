@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Visible and hidden meal information</title>
+  <desc id="desc">A camera frame reveals part of a plate while hidden ingredients sit beyond the frame.</desc>
+  <rect width="1200" height="630" fill="#f3f0e8"/>
+  <rect x="76" y="72" width="690" height="486" rx="28" fill="#07122c"/>
+  <path d="M125 188v-58h58M659 130h58v58M125 442v58h58M659 500h58v-58" fill="none" stroke="#46ec96" stroke-width="15" stroke-linecap="round"/>
+  <ellipse cx="421" cy="315" rx="220" ry="154" fill="#ebe6da"/>
+  <path d="M266 320c30-97 122-132 203-76 34 24 62 72 100 110-91 94-242 88-303-34z" fill="#46ec96"/>
+  <circle cx="360" cy="289" r="62" fill="#ff6d55"/>
+  <path d="M422 340c42-58 111-45 130 13-28 51-91 60-130-13z" fill="#07122c"/>
+  <rect x="766" y="0" width="434" height="630" fill="#ff6d55"/>
+  <g fill="#07122c"><path d="M861 145h226l-34 105H895z"/><circle cx="929" cy="279" r="17"/><circle cx="1026" cy="279" r="17"/><path d="M850 370c75-42 165-42 240 0v90c-75 42-165 42-240 0z"/></g>
+  <g fill="#f3f0e8"><circle cx="895" cy="415" r="18"/><circle cx="970" cy="390" r="24"/><circle cx="1044" cy="426" r="15"/></g>
+  <path d="M766 0v630" stroke="#07122c" stroke-width="8" stroke-dasharray="18 18"/>
+</svg>
