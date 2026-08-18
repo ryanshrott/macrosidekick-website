@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://macrosidekick.com
+Sitemap: https://macrosidekick.com/sitemap.xml

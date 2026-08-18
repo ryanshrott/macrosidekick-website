@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Nutrition value balance</title>
+  <desc id="desc">An abstract nutrition dial balances against a clean subscription receipt.</desc>
+  <rect width="1200" height="630" fill="#07122c"/>
+  <circle cx="344" cy="294" r="209" fill="#102347" stroke="#46ec96" stroke-width="4"/>
+  <path d="M344 112A182 182 0 0 1 514 359" fill="none" stroke="#ff6d55" stroke-width="35"/>
+  <path d="M344 112A182 182 0 0 0 176 363" fill="none" stroke="#f3f0e8" stroke-width="35"/>
+  <circle cx="344" cy="294" r="85" fill="#f3f0e8"/>
+  <path d="M344 294l111-74" stroke="#07122c" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="344" cy="294" r="18" fill="#ff6d55"/>
+  <path d="M344 503v62M178 565h332" stroke="#46ec96" stroke-width="18" stroke-linecap="round"/>
+  <path d="M602 315H695" stroke="#f3f0e8" stroke-width="16" stroke-linecap="round"/>
+  <rect x="698" y="80" width="356" height="470" rx="20" fill="#f3f0e8" transform="rotate(4 876 315)"/>
+  <g transform="rotate(4 876 315)" fill="#07122c"><rect x="755" y="145" width="154" height="21" rx="10"/><rect x="755" y="207" width="239" height="11" rx="5" opacity=".25"/><rect x="755" y="244" width="207" height="11" rx="5" opacity=".25"/><rect x="755" y="281" width="225" height="11" rx="5" opacity=".25"/><rect x="755" y="354" width="239" height="2" opacity=".2"/><circle cx="796" cy="427" r="32" fill="#46ec96"/><rect x="849" y="416" width="120" height="20" rx="10"/></g>
+</svg>

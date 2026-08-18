@@ -1,0 +1,38 @@
+# MacroSidekick
+
+> MacroSidekick is a voice-first AI food log and contextual nutrition coach for general wellness. It is a real iPhone beta distributed through Apple TestFlight.
+
+Canonical site: https://macrosidekick.com/
+Editorial index: https://macrosidekick.com/blog
+Beta access: https://macrosidekick.com/#beta
+Privacy: https://api.macrosidekick.com/privacy
+Support: https://api.macrosidekick.com/support
+
+## Product facts
+
+- The public signup currently requests and sends iPhone TestFlight access. It is not a vague waitlist.
+- Meal input supports natural speech, text, and up to four photos.
+- Users review an editable ingredient-level nutrition estimate before saving.
+- Users can correct the entire meal by voice or text.
+- The Sidekick coach can use the user's plan, history, recipes, preferences, and remaining macros.
+- The coach can take actions such as logging meals and saving recipes.
+- Public launch pricing has not been announced.
+
+## Limits and safety
+
+- MacroSidekick supports general wellness and does not provide medical advice.
+- Photo and AI meal estimates are not exact. Results vary with visible ingredients, preparation, image quality, portions, and user context.
+- MacroSidekick does not duplicate MacroFactor's adaptive expenditure algorithm.
+- Comparisons are published by MacroSidekick and link to first-party competitor sources.
+
+## Editorial articles
+
+- https://macrosidekick.com/blog/best-macrofactor-alternatives-2026
+- https://macrosidekick.com/blog/macrofactor-vs-myfitnesspal-vs-macrosidekick
+- https://macrosidekick.com/blog/best-myfitnesspal-alternatives-2026
+- https://macrosidekick.com/blog/best-macro-tracking-apps-2026
+- https://macrosidekick.com/blog/best-ai-calorie-tracker-apps-2026
+- https://macrosidekick.com/blog/voice-food-logging-app-guide
+- https://macrosidekick.com/blog/photo-calorie-tracker-accuracy
+- https://macrosidekick.com/blog/is-macrofactor-worth-it-2026
+
